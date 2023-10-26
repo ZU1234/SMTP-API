@@ -89,7 +89,9 @@ sudo service postfix restart
 **Adım 6: Test Mesajı Gönderme**
 
 Aşağıdaki komutu kullanarak test bir mesaj gönderin:
-
+```
+sudo apt install mailutils
+```
 ```
 echo "Bu bir test mesajıdır." | mail -s "Test Mesajı" <alıcı maili>
 ```
