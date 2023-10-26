@@ -7,7 +7,7 @@ JavaMail API'si ile yapabileceğiniz bazı temel işlemler:
 
 ## SMTP (Simple Mail Transfer Protocol)
 
-elektronik postaların iletilmesi ve yönlendirilmesi için kullanılan bir iletişim protokolüdür. SMTP'nin temel amacı, e-postaların güvenilir bir şekilde iletilmesini sağlamak ve e-posta iletişimi için standart bir yol sağlamaktır. SMTP, e-posta gönderme işlemlerinin alt yapısını oluşturur ve elektronik postaların hızlı ve güvenilir bir şekilde iletilmesini sağlar.
+Elektronik postaların iletilmesi ve yönlendirilmesi için kullanılan bir iletişim protokolüdür. SMTP'nin temel amacı, e-postaların güvenilir bir şekilde iletilmesini sağlamak ve e-posta iletişimi için standart bir yol sağlamaktır. SMTP, e-posta gönderme işlemlerinin alt yapısını oluşturur ve elektronik postaların hızlı ve güvenilir bir şekilde iletilmesini sağlar.
 ## Kurulum
 
 **Adım 1: Postfix'i Kurma**
